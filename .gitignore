@@ -1,0 +1,8 @@
+# ENVS and IDE
+.venv
+
+# Python
+.python-version
+__pycache__
+
+.pytest_cache
